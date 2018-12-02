@@ -13,7 +13,7 @@ The front-end repo can be found here:
 
 * [Charity Auction Frontend](https://github.com/kristinatong/charity-auction-frontend)
 
-### Installation
+### Installing
 
 OS X & Linux:
 
