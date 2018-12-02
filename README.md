@@ -1,9 +1,19 @@
 # Charity Auction
-> Ruby on Rails API backend for Charity Auction, an auction house app for providing funding to charitable causes.
+Ruby on Rails API backend for Charity Auction, an auction house app for providing funding to charitable causes.
 
-Frontend Javascript & React app repo: https://github.com/kristinatong/charity-auction-frontend
+## Getting Started
 
-## Installation
+### Prerequisites
+
+You'll need to install:
+
+* PostgreSQL
+
+The front-end repo can be found here:
+
+* [Charity Auction Frontend](https://github.com/kristinatong/charity-auction-frontend)
+
+### Installation
 
 OS X & Linux:
 
@@ -11,13 +21,7 @@ OS X & Linux:
 bundle install
 ```
 
-## Usage example
-
-
-
-## Development setup
-
-The Charity Auction API is built using postgreSQL. Please install postgreSQL on your computer before attempting to load the API on your local server. 
+### Development setup
 
 ```sh
 rails db:create
