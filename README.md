@@ -19,11 +19,6 @@ OS X & Linux:
 
 ```sh
 bundle install
-```
-
-### Development setup
-
-```sh
 rails db:create
 rails db:migrate
 rails s
